@@ -1,3 +1,3 @@
-# The Wordee copywriting and proofreading tool
+# The Wordee editor
 
 Copywriting and editing tool for professional copywriters.
